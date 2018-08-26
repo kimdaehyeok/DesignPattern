@@ -19,6 +19,7 @@ import com.example.designpattern.commandpattern.processing.Stock;
  * 커맨드 객체 : 요청에 대한 내용
  * 리시버 객체 : 요청을 받아 수행하는 객체
  * */
+
 public class CommandPatternDemo 
 {
 	public static void main(String[] args) 
